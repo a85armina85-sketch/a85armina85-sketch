@@ -38,7 +38,7 @@ My long-term goal is to build a solid foundation in software development and mov
 | Category | Technologies & Skills |
 | :--- | :--- |
 | **Programming** | Python, Object-Oriented Programming (OOP), Exception Handling |
-| **Web Development** | **Django**, REST APIs, Bootstrap |
+| **Web Development** | **Django**, REST APIs |
 | **Data Analysis** | Pandas, NumPy, Matplotlib |
 | **Web Scraping** | Requests, BeautifulSoup4, Regular Expressions |
 | **Databases** | MySQL, SQLite, PostgreSQL, MongoDB |
