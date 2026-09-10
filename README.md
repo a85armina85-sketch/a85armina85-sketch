@@ -51,11 +51,31 @@ My long-term goal is to build a solid foundation in software development and mov
 ## 🏅 Certifications
 
 <div align="center">
-  <img src="advanced.jpg.png" alt="Advanced Python Certificate" width="600"/>
-  <p><strong>Advanced Python</strong></p>
-  <p><em>Issued by: Darsman (درسمن)</em></p>
-  <p><em>Mastered advanced Python concepts including OOP, decorators, generators, and clean coding.</em></p>
+  <table>
+    <tr>
+      <td width="45%" valign="top">
+        <img src="advanced.jpg.png" alt="Advanced Python Certificate - Darsman" width="100%" style="border-radius: 10px;"/>
+      </td>
+      <td width="55%" valign="top">
+        <h3 align="left">🎓 Advanced Python</h3>
+        <p align="left">
+          <img src="https://img.shields.io/badge/Issuer-Darsman-06b6d4?logo=googleclassroom&logoColor=white" alt="Darsman"/>
+          <img src="https://img.shields.io/badge/Status-Completed-brightgreen" alt="Completed"/>
+        </p>
+        <p align="left">
+          Mastered advanced Python concepts, including:
+        </p>
+        <ul align="left">
+          <li>Advanced Object-Oriented Programming (OOP)</li>
+          <li>Decorators & Generators</li>
+          <li>Exception Handling & Best Practices</li>
+          <li>Clean and Pythonic Code</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ---
 
