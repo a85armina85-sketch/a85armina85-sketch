@@ -9,7 +9,7 @@
   width="100%"
 />
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Python+Developer;Learning+Software+Architecture;Web+Scraping+%26+Data+Analysis;Building+Desktop+Apps+with+PySide6;Future+AI+%26+Machine+Learning+Engineer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Python+Developer;Django+Web+Development;Web+Scraping+%26+Data+Analysis;Building+Desktop+Apps+with+PySide6;Future+AI+%26+Machine+Learning+Engineer)
 
 </div>
 
@@ -19,11 +19,12 @@
 
 I am a **Computer Engineering student at Razi University** with a strong interest in Python and software development.
 
-Currently, I am focused on improving my skills in **Python programming**, **object-oriented programming**, **web scraping**, **database design**, **data analysis**, and **desktop application development**.
+Currently, I am focused on building scalable web applications with **Django**, improving my skills in **Python programming**, **object-oriented programming**, **web scraping**, **database design**, and **data analysis**.
 
 My long-term goal is to build a solid foundation in software development and move toward the world of **Artificial Intelligence**, **Machine Learning**, and data-driven applications.
 
 - 🐍 Interested in building clean and modular Python projects
+- 🌐 Developing robust web applications with Django
 - 📊 Learning data analysis with Python libraries
 - ⚙️ Exploring backend development, automation, and scalable software design
 - 🖥️ Developing desktop applications using PySide6
@@ -37,9 +38,10 @@ My long-term goal is to build a solid foundation in software development and mov
 | Category | Technologies & Skills |
 | :--- | :--- |
 | **Programming** | Python, Object-Oriented Programming (OOP), Exception Handling |
+| **Web Development** | **Django**, REST APIs, Bootstrap |
 | **Data Analysis** | Pandas, NumPy, Matplotlib |
 | **Web Scraping** | Requests, BeautifulSoup4, Regular Expressions |
-| **Databases** | MySQL, SQLite, MongoDB |
+| **Databases** | MySQL, SQLite, PostgreSQL, MongoDB |
 | **Desktop GUI** | PySide6, Tkinter |
 | **Automation & Bots** | Telegram Bots, Python Automation Scripts |
 | **Development Tools** | Git, GitHub, VS Code, PyTest |
@@ -51,6 +53,8 @@ My long-term goal is to build a solid foundation in software development and mov
 Python Fundamentals & OOP
 ↓
 Web Scraping, Databases & Desktop Applications
+↓
+Django Web Development
 ↓
 Data Analysis & Data Visualization
 ↓
