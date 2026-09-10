@@ -53,29 +53,81 @@ My long-term goal is to build a solid foundation in software development and mov
 <div align="center">
   <table>
     <tr>
-      <td width="45%" valign="top">
+      <td width="42%" valign="top">
         <img src="advanced.jpg.png" alt="Advanced Python Certificate - Darsman" width="100%" style="border-radius: 10px;"/>
+        <p align="center">
+          <strong>🎓 Advanced Python</strong><br/>
+          <sub>Issued by Darsman (درسمن)</sub>
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Issuer-Darsman-06b6d4?logo=googleclassroom&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Status-Completed-brightgreen"/>
+          <img src="https://img.shields.io/badge/Sessions-90+-blue"/>
+        </p>
       </td>
-      <td width="55%" valign="top">
-        <h3 align="left">🎓 Advanced Python</h3>
-        <p align="left">
-          <img src="https://img.shields.io/badge/Issuer-Darsman-06b6d4?logo=googleclassroom&logoColor=white" alt="Darsman"/>
-          <img src="https://img.shields.io/badge/Status-Completed-brightgreen" alt="Completed"/>
-        </p>
-        <p align="left">
-          Mastered advanced Python concepts, including:
-        </p>
-        <ul align="left">
-          <li>Advanced Object-Oriented Programming (OOP)</li>
-          <li>Decorators & Generators</li>
-          <li>Exception Handling & Best Practices</li>
-          <li>Clean and Pythonic Code</li>
-        </ul>
+      <td width="58%" valign="top">
+
+### 📚 What I Learned
+<details>
+<summary><b>🧠 Advanced OOP & Python Internals</b></summary>
+<br/>
+
+- Deep OOP: Encapsulation, Inheritance, Polymorphism (Overloading & Overriding)
+- Abstract Classes, Class Members, Getters/Setters
+- Comprehensions (List, Dict, Nested) & Iterators
+- Generators, `yield`, and Lazy Evaluation
+- Decorators & Decorator Chaining
+- Exception Handling & Custom Exceptions
+- Functional Tools: `map`, `filter`, `reduce`, Recursion, Packing/Unpacking
+</details>
+
+<details>
+<summary><b>🗄️ Databases: SQL & NoSQL</b></summary>
+<br/>
+
+- MySQL: SQL queries, CRUD operations, Python connection
+- MongoDB (NoSQL): collections, CRUD with `pymongo`
+</details>
+
+<details>
+<summary><b>🌐 Data, Scraping & APIs</b></summary>
+<br/>
+
+- Web Scraping: `requests`, `BeautifulSoup4`, Regular Expressions
+- Working with JSON, XML & CSV formats
+- REST APIs: GET/POST methods in Python
+</details>
+
+<details>
+<summary><b>📊 Data Analysis & Visualization</b></summary>
+<br/>
+
+- NumPy: arrays & mathematical operations
+- Pandas: Series, DataFrames, Data Cleaning
+- Matplotlib: plotting & subplots
+</details>
+
+<details>
+<summary><b>🖥️ GUI, Multithreading & Testing</b></summary>
+<br/>
+
+- Desktop GUI with Tkinter (widgets, events, layout)
+- Multithreading: `Thread`, `Timer`, `Event` objects
+- Testing frameworks: `PyTest`, `UnitTest`, `DocTest`
+</details>
+
+<details>
+<summary><b>🛠️ Tools & Packaging</b></summary>
+<br/>
+
+- Package management with `pip` & Virtual Environments
+- Project packaging with `pyinstaller`
+- Essential modules: `datetime`, `collections`, `itertools`, `operator`, `os`
+</details>
       </td>
     </tr>
   </table>
 </div>
-
 
 ---
 
