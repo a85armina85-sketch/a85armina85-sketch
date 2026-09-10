@@ -48,6 +48,17 @@ My long-term goal is to build a solid foundation in software development and mov
 
 ---
 
+## 🏅 Certifications
+
+<div align="center">
+  <img src="advanced.jpg.png" alt="Advanced Python Certificate" width="600"/>
+  <p><strong>Advanced Python</strong></p>
+  <p><em>Issued by: Darsman (درسمن)</em></p>
+  <p><em>Mastered advanced Python concepts including OOP, decorators, generators, and clean coding.</em></p>
+</div>
+
+---
+
 ## 🎯 Learning Roadmap
 ```text
 Python Fundamentals & OOP
