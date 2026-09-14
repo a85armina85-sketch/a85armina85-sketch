@@ -28,42 +28,51 @@ My long-term goal is to build a solid foundation in software development and mov
 - 📊 Learning data analysis with Python libraries
 - ⚙️ Exploring backend development, automation, and scalable software design
 - 🖥️ Developing desktop applications using PySide6
-Advanced Python** قرار گرفت و بعد مدرک **Django Framework**.
-3. **اندازه یکسان عکس‌ها:** برای هر دو عکس عرض و ارتفاع دقیق و یکسان با استایل تمیز و گوشه‌های گرد تنظیم شد تا کاملاً متقارن و هم‌اندازه نمایش داده شوند.
-
-کد کامل و آماده فایل `README.md` را کپی کن و جایگزین کن:
-```markdown
-<div align="center">
-
-# Hi, I'm Armin 👋
-
-### Python Developer | Future AI & Machine Learning Engineer
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:06b6d4&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=44&fontColor=ffffff"
-  width="100%"
-/>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Python+Developer;Django+Web+Development;Web+Scraping+%26+Data+Analysis;Building+Desktop+Apps+with+PySide6;Future+AI+%26+Machine+Learning+Engineer)
-
-</div>
+- 🤖 Interested in Telegram bot development and automation
+- 🧠 Future focus: Artificial Intelligence and Machine Learning
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Current Skills & Tools
 
-I am a **Computer Engineering student at Razi University** with a strong interest in Python and software development.
+| Category | Technologies & Skills |
+| :--- | :--- |
+| **Programming** | Python, Object-Oriented Programming (OOP), Exception Handling |
+| **Web Development** | **Django**, Django REST Framework (DRF), REST APIs |
+| **Data Analysis** | Pandas, NumPy, Matplotlib |
+| **Web Scraping** | Requests, BeautifulSoup4, Regular Expressions |
+| **Databases** | MySQL, SQLite, PostgreSQL, MongoDB |
+| **Desktop GUI** | PySide6, Tkinter |
+| **Automation & Bots** | Telegram Bots, Python Automation Scripts |
+| **Development Tools** | Git, GitHub, VS Code, PyTest, cPanel Deployment |
 
-Currently, I am focused on building scalable web applications with **Django**, improving my skills in **Python programming**, **object-oriented programming**, **web scraping**, **database design**, and **data analysis**.
+---
 
-My long-term goal is to build a solid foundation in software development and move toward the world of **Artificial Intelligence**, **Machine Learning**, and data-driven applications.
+## 🏅 Certifications
 
-- 🐍 Interested in building clean and modular Python projects
-- 🌐 Developing robust web applications with Django
-- 📊 Learning data analysis with Python libraries
-- ⚙️ Exploring backend development, automation, and scalable software design
-- 🖥️ Developing desktop applications using PySide6
- collections, CRUD with pymongo
+### 🎓 Advanced Python
+<img src="advanced.jpg.png" alt="Advanced Python Certificate" align="left" width="380" style="border-radius: 10px; margin-right: 20px; margin-bottom: 15px;"/>
+
+**Issued by Darsman (درسمن)** — 90+ Sessions
+
+![Issuer](https://img.shields.io/badge/Issuer-Darsman-06b6d4?logo=googleclassroom&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Sessions](https://img.shields.io/badge/Sessions-90+-blue)
+
+<details>
+<summary><b>🧠 Advanced OOP & Python Internals</b></summary>
+
+- Deep OOP: Encapsulation, Inheritance, Polymorphism
+- Abstract Classes, Class Members, Getters/Setters
+- Comprehensions, Iterators, Generators & Lazy Evaluation
+- Decorators & Functional Tools: map, filter, reduce
+</details>
+
+<details>
+<summary><b>🗄️ Databases: SQL & NoSQL</b></summary>
+
+- MySQL: SQL queries, CRUD operations, Python connection
+- MongoDB (NoSQL): collections, CRUD with pymongo
 </details>
 
 <details>
@@ -71,31 +80,18 @@ My long-term goal is to build a solid foundation in software development and mov
 
 - Web Scraping: requests, BeautifulSoup4, Regular Expressions
 - Working with JSON, XML & CSV formats
-- REST APIs: GET/POST methods in Python
 </details>
 
 <details>
 <summary><b>📊 Data Analysis & Visualization</b></summary>
 
-- NumPy: arrays & mathematical operations
-- Pandas: Series, DataFrames, Data Cleaning
-- Matplotlib: plotting & subplots
+- NumPy, Pandas (DataFrames, Cleaning), Matplotlib (plotting)
 </details>
 
 <details>
 <summary><b>🖥️ GUI, Multithreading & Testing</b></summary>
 
-- Desktop GUI with Tkinter (widgets, events, layout)
-- Multithreading: Thread, Timer, Event objects
-- Testing frameworks: PyTest, UnitTest, DocTest
-</details>
-
-<details>
-<summary><b>🛠️ Tools & Packaging</b></summary>
-
-- Package management with pip & Virtual Environments
-- Project packaging with pyinstaller
-- Essential modules: datetime, collections, itertools, os
+- Desktop GUI (Tkinter), Multithreading, PyTest, UnitTest
 </details>
 
 <br clear="left"/>
@@ -103,7 +99,7 @@ My long-term goal is to build a solid foundation in software development and mov
 ---
 
 ### 🎓 Django Framework
-<img src="Django-Cert.png" alt="Django Framework Certificate - Darsman" align="left" width="380" style="border-radius: 10px; margin-right: 20px; margin-bottom: 15px;"/>
+<img src="Django-Cert.png" alt="Django Framework Certificate" align="left" width="380" style="border-radius: 10px; margin-right: 20px; margin-bottom: 15px;"/>
 
 **Issued by Darsman (درسمن)** — 50 Hours
 
@@ -114,67 +110,49 @@ My long-term goal is to build a solid foundation in software development and mov
 <details>
 <summary><b>⚙️ Setup, Architecture & Project Structure</b></summary>
 
-- Virtual Environment setup & dependency management
-- MVC vs. MVT architectural patterns deep dive
-- Django project & application lifecycle, settings.py configuration
+- Virtual Environment, MVC/MVT patterns, Project lifecycle
 </details>
 
 <details>
 <summary><b>🎨 Django Templates & Static/Media</b></summary>
 
-- Template Engines configuration, render shortcuts & Context passing
-- Template Tags, Custom Filters, Template Inheritance & Partials
-- Static and Media files handling & structure
+- Template Engine, Inheritance, Static & Media handling
 </details>
 
 <details>
 <summary><b>🗄️ Django Models & ORM</b></summary>
 
-- Model Field Types, Field Options, Meta Class options
-- Relationship Fields: ForeignKey, ManyToMany, OneToOne
-- Custom Model Validators
+- Field Types, Relationships (FK, M2M, O2O), Query Optimization
 </details>
 
 <details>
 <summary><b>📝 Forms & ModelForms</b></summary>
 
-- GET/POST request handling, CSRF token protection
-- Form Fields, Widgets, Built-in & Custom Validators
-- Django ModelForms and FormSets management
+- CSRF protection, Validation, ModelForm & FormSet management
 </details>
 
 <details>
 <summary><b>👁️ Class-Based Views (CBV) & URLs</b></summary>
 
-- Generic Views: ListView, DetailView, CreateView, UpdateView, DeleteView
-- Context injection, dynamic filtering (get_queryset), Pagination
-- Advanced URL routing: Regex (re_path), Query Strings, reverse(), urlencode()
-- HTTP Redirects (HttpResponseRedirect, redirect method)
+- Generic Views, Context injection, Advanced URL Routing
 </details>
 
 <details>
 <summary><b>🚀 Media, Sessions, Security & AJAX</b></summary>
 
-- Image uploading (ImageField, FileSystemStorage, request.FILES)
-- Email sending (send_mail, EmailMultiAlternatives, Gmail SMTP)
-- Cookie & Session management (File-based & Cookie-based sessions)
-- jQuery AJAX integration with JsonResponse
+- Auth, Email, Cookie/Session management, jQuery AJAX
 </details>
 
 <details>
 <summary><b>🌐 Django REST Framework (DRF) & Auth</b></summary>
 
-- RESTful API design, @api_view, FBVs and CBVs
-- Serializers & Validation, Authentication, Permissions
-- JWT Authentication (Access & Refresh Tokens)
+- Serializers, API Design, Permissions, JWT Authentication
 </details>
 
 <details>
 <summary><b>🚢 Deployment & Production Setup</b></summary>
 
-- Domain, DNS, and SSL configurations
-- Production setup on cPanel via SSH & Terminal
-- passenger_wsgi.py setup, static/media collection, Database migration
+- cPanel, SSH/Terminal, SSL, passenger_wsgi.py, Migration
 </details>
 
 <br clear="left"/>
@@ -182,7 +160,6 @@ My long-term goal is to build a solid foundation in software development and mov
 ---
 
 ## 🎯 Learning Roadmap
-
 ```text
 Python Fundamentals & OOP
 ↓
