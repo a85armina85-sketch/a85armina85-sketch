@@ -1,15 +1,23 @@
 <div align="center">
 
-# Hi, I'm Armin 👋
+# Hi there, I'm Armin 👋
 
-### Python Developer | Future AI & Machine Learning Engineer
+### ⚡ Python Developer | Future AI & Machine Learning Engineer 🧠
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:06b6d4&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=44&fontColor=ffffff"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:06b6d4&height=210&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn"
   width="100%"
 />
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Python+Developer;Django+Web+Development;Web+Scraping+%26+Data+Analysis;Building+Desktop+Apps+with+PySide6;Future+AI+%26+Machine+Learning+Engineer)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Python+Developer+%26+Backend+Enthusiast;Django+%7C+Django+REST+Framework;Data+Analysis+%26+Web+Scraping;Desktop+Apps+with+PySide6;Future+AI+%26+Machine+Learning+Engineer" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Rocket.png" alt="Rocket" width="35" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="35" />
+</p>
 
 </div>
 
@@ -17,34 +25,66 @@
 
 ## 👨‍💻 About Me
 
-I am a **Computer Engineering student at Razi University** with a strong interest in Python and software development.
+<img align="right" width="320" src="https://assets.website-files.com/5f8dd02be75b2866ebcc444f/602e4854ea0a1c6a2e4d0755_developer.gif" alt="Coding Animation" />
 
-Currently, I am focused on building scalable web applications with **Django**, improving my skills in **Python programming**, **object-oriented programming**, **web scraping**, **database design**, and **data analysis**.
+🎓 **Computer Engineering student at Razi University** with a strong passion for Python, backend architecture, and modern data-driven systems.
 
-My long-term goal is to build a solid foundation in software development and move toward the world of **Artificial Intelligence**, **Machine Learning**, and data-driven applications.
+- 🐍 **Core Focus:** Building clean, modular, and scalable software with Python & OOP.
+- 🌐 **Web & Backend:** Designing robust APIs and web apps using **Django & DRF**.
+- 📊 **Data & Scraping:** Extracting insights using **Pandas, NumPy** and robust web scrapers.
+- 🖥️ **Desktop GUI:** Crafting modern desktop tools with **PySide6 / Tkinter**.
+- 🚀 **Long-term Goal:** Transitioning into **Machine Learning & Artificial Intelligence**.
 
-- 🐍 Interested in building clean and modular Python projects
-- 🌐 Developing robust web applications with Django
-- 📊 Learning data analysis with Python libraries
-- ⚙️ Exploring backend development, automation, and scalable software design
-- 🖥️ Developing desktop applications using PySide6
-- 🤖 Interested in Telegram bot development and automation
-- 🧠 Future focus: Artificial Intelligence and Machine Learning
+### 📬 Connect With Me
+<p>
+  <a href="mailto:a85armina85@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/a85_ARMIN_a85"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/armin_naseri85"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+<br clear="right"/>
 
 ---
 
-## 🚀 Current Skills & Tools
+## 🛠️ Tech Stack & Skills
 
-| Category | Technologies & Skills |
-| :--- | :--- |
-| **Programming** | Python, Object-Oriented Programming (OOP), Exception Handling |
-| **Web Development** | **Django**, Django REST Framework (DRF), REST APIs |
-| **Data Analysis** | Pandas, NumPy, Matplotlib |
-| **Web Scraping** | Requests, BeautifulSoup4, Regular Expressions |
-| **Databases** | MySQL, SQLite, PostgreSQL, MongoDB |
-| **Desktop GUI** | PySide6, Tkinter |
-| **Automation & Bots** | Telegram Bots, Python Automation Scripts |
-| **Development Tools** | Git, GitHub, VS Code, PyTest, cPanel Deployment |
+<div align="center">
+
+### 💻 Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+</p>
+
+### 📊 Data Analysis & Scraping
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup-06B6D4?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### 🗄️ Databases & Tools
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+</div>
+
+---
+
+## 📈 GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=a85armina85-sketch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a85armina85-sketch&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%"/>
+</div>
 
 ---
 
@@ -54,15 +94,10 @@ My long-term goal is to build a solid foundation in software development and mov
   <!-- Certificate 1: Advanced Python -->
   <tr>
     <td width="38%" valign="top">
-      <img src="advanced.jpg.png" alt="Advanced Python Certificate - Darsman" width="100%" style="border-radius: 10px;"/>
+      <img src="advanced.jpg.png" alt="Advanced Python Certificate" width="100%" style="border-radius: 10px;"/>
       <p align="center">
         <strong>🎓 Advanced Python</strong><br/>
-        <sub>Issued by Darsman (درسمن)</sub>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Issuer-Darsman-06b6d4?logo=googleclassroom&logoColor=white"/><br/>
-        <img src="https://img.shields.io/badge/Status-Completed-brightgreen"/>
-        <img src="https://img.shields.io/badge/Sessions-90+-blue"/>
+        <sub>Issued by Darsman</sub>
       </p>
     </td>
     <td width="62%" valign="top">
@@ -72,10 +107,9 @@ My long-term goal is to build a solid foundation in software development and mov
 <summary><b>🧠 Advanced OOP & Python Internals</b></summary>
 <br/>
 
-- Deep OOP: Encapsulation, Inheritance, Polymorphism (Overloading & Overriding)
-- Abstract Classes, Class Members, Getters/Setters
-- Comprehensions, Iterators, Generators & Lazy Evaluation
-- Decorators & Functional Tools: map, filter, reduce, Recursion, Packing/Unpacking
+- Deep OOP, Abstract Classes, Class Members, Getters/Setters
+- Comprehensions, Iterators, Generators
+- Decorators, Functional Tools, Recursion, Packing/Unpacking
 </details>
 
 <details>
@@ -94,125 +128,42 @@ My long-term goal is to build a solid foundation in software development and mov
 - Working with JSON, XML & CSV formats
 - REST APIs: GET/POST methods in Python
 </details>
-
-<details>
-<summary><b>📊 Data Analysis & Visualization</b></summary>
-<br/>
-
-- NumPy: arrays & mathematical operations
-- Pandas: Series, DataFrames, Data Cleaning
-- Matplotlib: plotting & subplots
-</details>
-
-<details>
-<summary><b>🖥️ GUI, Multithreading & Testing</b></summary>
-<br/>
-
-- Desktop GUI with Tkinter (widgets, events, layout)
-- Multithreading: Thread, Timer, Event objects
-- Testing frameworks: PyTest, UnitTest, DocTest
-</details>
-
-<details>
-<summary><b>🛠️ Tools & Packaging</b></summary>
-<br/>
-
-- Package management with pip & Virtual Environments
-- Project packaging with pyinstaller
-- Essential modules: datetime, collections, itertools, os
-</details>
     </td>
   </tr>
 
   <!-- Certificate 2: Django Framework -->
   <tr>
     <td width="38%" valign="top">
-      <img src="Django-Cert.png" alt="Django Framework Certificate - Darsman" width="100%" style="border-radius: 10px;"/>
+      <img src="Django-Cert.png" alt="Django Framework Certificate" width="100%" style="border-radius: 10px;"/>
       <p align="center">
         <strong>🎓 Django Framework</strong><br/>
-        <sub>Issued by Darsman (درسمن)</sub>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Issuer-Darsman-06b6d4?logo=googleclassroom&logoColor=white"/><br/>
-        <img src="https://img.shields.io/badge/Status-Completed-brightgreen"/>
-        <img src="https://img.shields.io/badge/Duration-50%20Hours-blue"/>
+        <sub>Issued by Darsman</sub>
       </p>
     </td>
     <td width="62%" valign="top">
 
 ### 📚 What I Learned
 <details>
-<summary><b>⚙️ Setup, Architecture & Project Structure</b></summary>
+<summary><b>⚙️ Setup & Architecture</b></summary>
 <br/>
 
-- Virtual Environment setup & dependency management
 - MVC vs. MVT architectural patterns deep dive
-- Django project & application lifecycle, settings.py configuration
-</details>
-
-<details>
-<summary><b>🎨 Django Templates & Static/Media</b></summary>
-<br/>
-
-- Template Engines configuration, render shortcuts & Context passing
-- Template Tags, Custom Filters, Template Inheritance & Partials
-- Static and Media files handling & structure
+- Django project lifecycle & settings configuration
 </details>
 
 <details>
 <summary><b>🗄️ Django Models & ORM</b></summary>
 <br/>
 
-- Model Field Types, Field Options, Meta Class options
-- Relationship Fields: ForeignKey, ManyToMany, OneToOne
-- Custom Model Validators
+- Model Field Types, Meta Options, Relationship Fields (FK, M2M, O2O)
 </details>
 
 <details>
-<summary><b>📝 Forms & ModelForms</b></summary>
+<summary><b>🌐 DRF & Production</b></summary>
 <br/>
 
-- GET/POST request handling, CSRF token protection
-- Form Fields, Widgets, Built-in & Custom Validators
-- Django ModelForms and FormSets management
-</details>
-
-<details>
-<summary><b>👁️ Class-Based Views (CBV) & URLs</b></summary>
-<br/>
-
-- Generic Views: ListView, DetailView, CreateView, UpdateView, DeleteView
-- Context injection, dynamic filtering (get_queryset), Pagination
-- Advanced URL routing: Regex (re_path), Query Strings, reverse(), urlencode()
-- HTTP Redirects (HttpResponseRedirect, redirect method)
-</details>
-
-<details>
-<summary><b>🚀 Media, Sessions, Security & AJAX</b></summary>
-<br/>
-
-- Image uploading (ImageField, FileSystemStorage, request.FILES)
-- Email sending (send_mail, EmailMultiAlternatives, Gmail SMTP)
-- Cookie & Session management (File-based & Cookie-based sessions)
-- jQuery AJAX integration with JsonResponse
-</details>
-
-<details>
-<summary><b>🌐 Django REST Framework (DRF) & Auth</b></summary>
-<br/>
-
-- RESTful API design, @api_view, FBVs and CBVs
-- Serializers & Validation, Authentication, Permissions
-- JWT Authentication (Access & Refresh Tokens)
-</details>
-
-<details>
-<summary><b>🚢 Deployment & Production Setup</b></summary>
-<br/>
-
-- Domain, DNS, and SSL configurations
-- Production setup on cPanel via SSH & Terminal
-- passenger_wsgi.py setup, static/media collection, Database migration
+- RESTful API design, Serializers, Authentication, Permissions
+- Deployment on cPanel via SSH, passenger_wsgi.py, Database migration
 </details>
     </td>
   </tr>
@@ -230,6 +181,6 @@ Django Web Development & REST APIs (DRF)
 ↓
 Data Analysis & Data Visualization
 ↓
-Machine Learning
+Machine Learning & Deep Learning
 ↓
 Artificial Intelligence Projects
