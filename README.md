@@ -13,10 +13,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Python+Developer+%26+Backend+Enthusiast;Django+%7C+Django+REST+Framework;Data+Analysis+%26+Web+Scraping;Desktop+Apps+with+PySide6;Future+AI+%26+Machine+Learning+Engineer" alt="Typing SVG" />
 </a>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Rocket.png" alt="Rocket" width="35" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="35" />
+<p align="center" style="font-size: 28px;">
+  💻 &nbsp; 🚀 &nbsp; ⚙️
 </p>
 
 </div>
